@@ -1,0 +1,14 @@
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\bin\Debug\net8.0\AulaGitHubAcrion02.exe
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\bin\Debug\net8.0\AulaGitHubAcrion02.deps.json
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\bin\Debug\net8.0\AulaGitHubAcrion02.runtimeconfig.json
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\bin\Debug\net8.0\AulaGitHubAcrion02.dll
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\bin\Debug\net8.0\AulaGitHubAcrion02.pdb
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.AssemblyInfoInputs.cache
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.AssemblyInfo.cs
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.csproj.CoreCompileInputs.cache
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.dll
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\refint\AulaGitHubAcrion02.dll
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.pdb
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.genruntimeconfig.cache
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\ref\AulaGitHubAcrion02.dll
