@@ -12,3 +12,4 @@ C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcr
 C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.pdb
 C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.genruntimeconfig.cache
 C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\ref\AulaGitHubAcrion02.dll
+C:\Users\Olá\source\repos\fiap-githubAction-02\AulaGitHubAcrion02\AulaGitHubAcrion02\obj\Debug\net8.0\AulaGitHubAcrion02.sourcelink.json
