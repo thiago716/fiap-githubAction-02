@@ -1,1 +1,27 @@
+name: Treinando com GitHub Actions
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Treinamento de GitHub Actions
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Step 1
+        run: echo "Hello World"
+
+      - name: Step 2
+        run: echo "Hello World 2"
+
+      - name: Step 3
+        run: echo "Hello World 3"
+
+      - name: Step 4
+        run: echo "Hello World 4"
