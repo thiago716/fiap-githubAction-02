@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaGitHubAcrion02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705624916e34b3f60c293f8b2127977bf1e11907")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b36e4591e03eced713486a9cc9eb3739e581fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaGitHubAcrion02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaGitHubAcrion02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
