@@ -8,8 +8,9 @@ on:
 jobs:
   build:
     name: Treinamento de GitHub Actions
+    runs-on: ubuntu-latest
     #runs-on: self-hosted #aqui estou colocando para executar localmente
-     runs-on: ubuntu-latest #aqui estou colocando para executar na nuvem
+    
 
     steps:
       - name: Checkout code
